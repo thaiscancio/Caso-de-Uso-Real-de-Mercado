@@ -8,7 +8,7 @@ Cenário 7: Sistema de Gerenciamento de Manutenção de Equipamentos em uma Ind�
 - Empresa fictícia, dados criados para fins acadêmicos.
 
 ## 👩‍💻 Integrantes
-Thaís Cancio
+Thaís Cancio e
 Giovana Fernandes 
 
 ## 🛠️ Tecnologias
